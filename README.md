@@ -1,3 +1,3 @@
 ### Hello
 
-[here's a thing](rnrsr.github.io)
+[here's a thing](https://rnrsr.github.io)
